@@ -1,0 +1,22 @@
+header {
+    background-color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    h1 {
+        color:bisque
+    }
+    h2 {
+        color:azure
+    }
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0px;
+}
